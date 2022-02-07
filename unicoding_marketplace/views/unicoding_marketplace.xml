@@ -208,11 +208,11 @@
 
 
         <!-- Sales Teams Actions -->
-        <record id="actions_unicoding_marketplace_sales_teams" model="ir.actions.act_window">
+        <!--<record id="actions_unicoding_marketplace_sales_teams" model="ir.actions.act_window">
             <field name="name">Sales Teams</field>
             <field name="res_model">crm.team</field>
             <field name="view_mode">kanban,form</field>
-            <field name="view_id" ref="sales_team.crm_team_salesteams_search"/>
+            <field name="view_id" ref="sales_team.crm_team_view_kanban_dashboard"/>
             <field name="context">{'in_sales_app': True}</field>
             <field name="help" type="html">
                 <p class="o_view_nocontent_smiling_face">
@@ -222,7 +222,7 @@
                     Each team will work with a separate pipeline.
                 </p>
             </field>
-        </record>
+        </record>-->
 
         <record id="actions_unicoding_marketplace_customers" model="ir.actions.act_window">
             <field name="name">Customers</field>

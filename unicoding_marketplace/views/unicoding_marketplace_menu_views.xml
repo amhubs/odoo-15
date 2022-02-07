@@ -10,7 +10,7 @@
                 <menuitem id="menu_unicoding_marketplace_quotations" sequence="1" name="Quotations" action="actions_unicoding_marketplace_quotations"/>
                 <menuitem id="menu_unicoding_marketplace_sales_orders" sequence="2" name="Sales Orders" action="actions_unicoding_marketplace_sales_orders"/>
                 <menuitem id="menu_unicoding_marketplace_invoices" sequence="3" name="Invoices" action="actions_unicoding_marketplace_invoices"/>
-                <menuitem id="menu_unicoding_marketplace_sales_teams" sequence="4" name="Sales Teams" action="actions_unicoding_marketplace_sales_teams"/>
+                <menuitem id="menu_unicoding_marketplace_sales_teams" sequence="4" name="Sales Teams" action="sales_team.crm_team_action_pipeline"/>
                 <menuitem id="menu_unicoding_marketplace_customers" sequence="5" name="Customers" action="actions_unicoding_marketplace_customers"/>
 
             </menuitem>

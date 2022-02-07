@@ -2,7 +2,7 @@
 {
     "name": "Connector with Marketplaces",
     "summary": "Connector with Ecwid, Opencart and etc",
-    "version": "14.0.2.0.0",
+    "version": "15.0.2.0.0",
     "author": "Unicoding.by",
     "website": "https://unicoding.by",
     "license": "OPL-1",
